@@ -10,9 +10,8 @@ const Footer = () => {
             <li>CopyRight</li>
             <li>Reserved</li>
         </ul>
-    
+        
         </footer> 
-      
     </div>
   )
 }
